@@ -1,0 +1,15 @@
+C:\Users\wangd\source\repos\ProjectOpenXML\ProjectOpenXML\bin\Debug\ProjectOpenXML.exe.config
+C:\Users\wangd\source\repos\ProjectOpenXML\ProjectOpenXML\bin\Debug\ProjectOpenXML.exe
+C:\Users\wangd\source\repos\ProjectOpenXML\ProjectOpenXML\bin\Debug\ProjectOpenXML.pdb
+C:\Users\wangd\source\repos\ProjectOpenXML\ProjectOpenXML\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\wangd\source\repos\ProjectOpenXML\ProjectOpenXML\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\wangd\source\repos\ProjectOpenXML\ProjectOpenXML\bin\Debug\System.IO.Packaging.dll
+C:\Users\wangd\source\repos\ProjectOpenXML\ProjectOpenXML\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\wangd\source\repos\ProjectOpenXML\ProjectOpenXML\obj\Debug\ProjectOpenXML.csprojAssemblyReference.cache
+C:\Users\wangd\source\repos\ProjectOpenXML\ProjectOpenXML\obj\Debug\ProjectOpenXML.Form1.resources
+C:\Users\wangd\source\repos\ProjectOpenXML\ProjectOpenXML\obj\Debug\ProjectOpenXML.Properties.Resources.resources
+C:\Users\wangd\source\repos\ProjectOpenXML\ProjectOpenXML\obj\Debug\ProjectOpenXML.csproj.GenerateResource.cache
+C:\Users\wangd\source\repos\ProjectOpenXML\ProjectOpenXML\obj\Debug\ProjectOpenXML.csproj.CoreCompileInputs.cache
+C:\Users\wangd\source\repos\ProjectOpenXML\ProjectOpenXML\obj\Debug\ProjectOpenXML.csproj.CopyComplete
+C:\Users\wangd\source\repos\ProjectOpenXML\ProjectOpenXML\obj\Debug\ProjectOpenXML.exe
+C:\Users\wangd\source\repos\ProjectOpenXML\ProjectOpenXML\obj\Debug\ProjectOpenXML.pdb
